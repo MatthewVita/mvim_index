@@ -1,0 +1,120 @@
+- name: Ethereum
+  ticker: ETH
+  market_cap: Large
+  avg_share_last_2_years: $2000
+  avg_performance_last_3_months: 30%
+  avg_performance_last_6_months: 100%
+  avg_performance_last_12_months: 300%
+  risk: High
+  rationale: Leading cryptocurrency supported by a strong platform for product dev.
+  industry: Cryptocurrency
+
+- name: Amazon.com, Inc.
+  ticker: AMZN
+  market_cap: Large
+  avg_share_last_2_years: $3000
+  avg_performance_last_3_months: 10%
+  avg_performance_last_6_months: 20%
+  avg_performance_last_12_months: 40%
+  risk: High
+  rationale: Leader in e-comm, cloud, and streaming.
+  industry: Technology/Consumer Discretionary
+
+- name: Iron Mountain
+  ticker: irm
+  market_cap: Large
+  avg_share_last_2_years: $30
+  avg_performance_last_3_months: -5%
+  avg_performance_last_6_months: 0%
+  avg_performance_last_12_months: 5%
+  risk: High
+  rationale: REIT, specializing in storage and information management services - data centers.
+  industry: Real Estate
+
+- name: NVIDIA Corporation
+  ticker: NVDA
+  market_cap: Large
+  avg_share_last_2_years: $200
+  avg_performance_last_3_months: 15%
+  avg_performance_last_6_months: 30%
+  avg_performance_last_12_months: 50%
+  risk: High
+  rationale: Produces GPUs that dominate the AI space. Also supports data centers and numerous areas in the technology sector.
+  industry: Technology
+
+- name: British American Tobacco
+  ticker: BAT
+  market_cap: Large
+  avg_share_last_2_years: $40
+  avg_performance_last_3_months: -2%
+  avg_performance_last_6_months: 5%
+  avg_performance_last_12_months: 10%
+  risk: Moderate to High
+  rationale: Recession-proof company with a diverse portfolio of brands that will continue to profit off of global vape/pouch nicotine use.
+  industry: Consumer Staples
+
+- name: iShares S&P 500 Growth ETF
+  ticker: IVW
+  market_cap: Large
+  avg_share_last_2_years: $200
+  avg_performance_last_3_months: 8%
+  avg_performance_last_6_months: 15%
+  avg_performance_last_12_months: 25%
+  risk: Moderate to High
+  rationale: More volatile S&P 500 with potential higher returns
+  industry: Technology/Consumer Discretionary/Healthcare/Communication Services
+
+- name: Cerner Corporation
+  ticker: CERN
+  market_cap: Mid
+  avg_share_last_2_years: $70
+  avg_performance_last_3_months: -5%
+  avg_performance_last_6_months: 2%
+  avg_performance_last_12_months: 5%
+  risk: Moderate
+  rationale: An EMR market leader in the healthcare sector.
+  industry: Healthcare
+
+- name: Deere & Company
+  ticker: DE
+  market_cap: Large
+  avg_share_last_2_years: $150
+  avg_performance_last_3_months: 5%
+  avg_performance_last_6_months: 15%
+  avg_performance_last_12_months: 20%
+  risk: Moderate
+  rationale: Leading manufacturer of agricultural machinery with a global presence.
+  industry: Industrials
+
+- name: Intel Corporation
+  ticker: INTC
+  market_cap: Large
+  avg_share_last_2_years: $50
+  avg_performance_last_3_months: 3%
+  avg_performance_last_6_months: 10%
+  avg_performance_last_12_months: 15%
+  risk: Moderate
+  rationale: Leading semiconductor company with a focus on new AI for future growth.
+  industry: Technology
+
+- name: Digital Realty Trust
+  ticker: DLR
+  market_cap: Large
+  avg_share_last_2_years: $140
+  avg_performance_last_3_months: 2%
+  avg_performance_last_6_months: 5%
+  avg_performance_last_12_months: 10%
+  risk: Low to Moderate
+  rationale: REIT, specializing in storage and information management services - data centers.
+  industry: Real Estate/Technology
+
+- name: Procter & Gamble Company
+  ticker: PG
+  market_cap: Large
+  avg_share_last_2_years: $120
+  avg_performance_last_3_months: 5%
+  avg_performance_last_6_months: 8%
+  avg_performance_last_12_months: 12%
+  risk: Low
+  rationale: Leading consumer goods company with a portfolio of well-known brands.
+  industry: Consumer Staples
