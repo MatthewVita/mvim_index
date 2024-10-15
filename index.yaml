@@ -1,3 +1,9 @@
+# Amazon (AMZN): $00 (20%)
+# NVIDIA (NVDA): $ (20%)
+# Intel (INTC): $10%)
+# Procter & Gamble (PG): $(10%)
+# VOOG: $100 (10%)
+
 - name: Ethereum
   ticker: ETH
   market_cap: Large
@@ -10,7 +16,7 @@
   ticker: AMZN
   market_cap: Large
   risk: High
-  allocation: 16%
+  allocation: 20%
   rationale: Leader in e-comm, cloud, and streaming. Consistent growth and market dominance.
   industry: Technology/Consumer Discretionary
 
@@ -22,14 +28,6 @@
   rationale: Produces GPUs that dominate the AI space. Also supports data centers and numerous areas in the technology sector. Exceptional growth due to AI and gaming demand.
   industry: Technology
 
-- name: British American Tobacco
-  ticker: BAT
-  market_cap: Large
-  risk: Moderate to High
-  allocation: 8%
-  rationale: Recession-proof company with a diverse portfolio of brands that will continue to profit off of global vape/pouch nicotine use. Steady performance with strong dividends.
-  industry: Consumer Staples
-
 - name: iShares S&P 500 Growth ETF
   ticker: IVW
   market_cap: Large
@@ -37,22 +35,6 @@
   allocation: 16%
   rationale: More volatile S&P 500 with potential higher returns.
   industry: Technology/Consumer Discretionary/Healthcare/Communication Services
-
-- name: Cerner Corporation
-  ticker: CERN
-  market_cap: Mid
-  risk: Moderate
-  allocation: 4%
-  rationale: An EMR market leader in the healthcare sector. Strong growth driven by healthcare IT demands.
-  industry: Healthcare
-
-- name: Deere & Company
-  ticker: DE
-  market_cap: Large
-  risk: Moderate
-  allocation: 6%
-  rationale: Leading manufacturer of agricultural machinery with a global presence. Historically strong performance with cyclical trends.
-  industry: Industrials
 
 - name: Intel Corporation
   ticker: INTC
